@@ -9,7 +9,7 @@
 [image5]: layers_64x56_590ep.png  "im5_64x56_590ep"
 [image6]: layers_80x88_633ep.png  "im6_80x88_633ep"
 
-# Project 1: Navigation
+# Project 1: Yellow-Banana-Hunt-RL-Navigation
 
 ### Introduction
 
