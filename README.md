@@ -160,57 +160,48 @@ to get the average score for the given set of parameters.
 ### Output of testing 
 
 =========================================================   
-Train: 0, Test: 0, Episode: 585, fc1_units: 96, fc2_units: 88, eps_start: 0.99, Score: 13.0   
-Train: 0, Test: 1, Episode: 585, fc1_units: 96, fc2_units: 88, eps_start: 0.99, Score: 16.0   
-Train: 0, Test: 2, Episode: 585, fc1_units: 96, fc2_units: 88, eps_start: 0.99, Score: 18.0   
-Train: 0, Test: 3, Episode: 585, fc1_units: 96, fc2_units: 88, eps_start: 0.99, Score: 14.0   
-Train: 0, Test: 4, Episode: 585, fc1_units: 96, fc2_units: 88, eps_start: 0.99, Score: 13.0   
-Train: 0, Test: 5, Episode: 585, fc1_units: 96, fc2_units: 88, eps_start: 0.99, Score: 17.0   
+Train: 0, Test: 0, Episode: 592, fc1_units: 96, fc2_units: 96, eps_start: 0.99, Score: 17.0
+Train: 0, Test: 1, Episode: 592, fc1_units: 96, fc2_units: 96, eps_start: 0.99, Score: 17.0
+Train: 0, Test: 2, Episode: 592, fc1_units: 96, fc2_units: 96, eps_start: 0.99, Score: 17.0
+Train: 0, Test: 3, Episode: 592, fc1_units: 96, fc2_units: 96, eps_start: 0.99, Score: 19.0
+Train: 0, Test: 4, Episode: 592, fc1_units: 96, fc2_units: 96, eps_start: 0.99, Score: 24.0
+Train: 0, Test: 5, Episode: 592, fc1_units: 96, fc2_units: 96, eps_start: 0.99, Score: 18.0
+
+       Average Score:  18.666666666666668
+========================================================= 
        
-    Average Score:  15.17      
+    Average Score:  18.67      
        
 =========================================================   
-Train: 1, Test: 0, Episode: 579, fc1_units: 48, fc2_units: 32, eps_start: 0.992, Score: 15.0   
-Train: 1, Test: 1, Episode: 579, fc1_units: 48, fc2_units: 32, eps_start: 0.992, Score: 9.0   
-Train: 1, Test: 2, Episode: 579, fc1_units: 48, fc2_units: 32, eps_start: 0.992, Score: 17.0   
-Train: 1, Test: 3, Episode: 579, fc1_units: 48, fc2_units: 32, eps_start: 0.992, Score: 17.0    
-Train: 1, Test: 4, Episode: 579, fc1_units: 48, fc2_units: 32, eps_start: 0.992, Score: 18.0   
-Train: 1, Test: 5, Episode: 579, fc1_units: 48, fc2_units: 32, eps_start: 0.992, Score: 17.0   
+Train: 1, Test: 0, Episode: 591, fc1_units: 48, fc2_units: 40, eps_start: 0.991, Score: 16.0
+Train: 1, Test: 1, Episode: 591, fc1_units: 48, fc2_units: 40, eps_start: 0.991, Score: 13.0
+Train: 1, Test: 2, Episode: 591, fc1_units: 48, fc2_units: 40, eps_start: 0.991, Score: 15.0
+Train: 1, Test: 3, Episode: 591, fc1_units: 48, fc2_units: 40, eps_start: 0.991, Score: 12.0
+Train: 1, Test: 4, Episode: 591, fc1_units: 48, fc2_units: 40, eps_start: 0.991, Score: 19.0
+Train: 1, Test: 5, Episode: 591, fc1_units: 48, fc2_units: 40, eps_start: 0.991, Score: 11.0
 
-    Average Score:  15.5     
+       Average Score:  14.333333333333334  ( **the best result**)
+=========================================================
+
+    Average Score:  14.34     
     
 =========================================================  
-Train: 2, Test: 0, Episode: 572, fc1_units: 80, fc2_units: 88, eps_start: 0.992, Score: 18.0   
-Train: 2, Test: 1, Episode: 572, fc1_units: 80, fc2_units: 88, eps_start: 0.992, Score: 11.0  
-Train: 2, Test: 2, Episode: 572, fc1_units: 80, fc2_units: 88, eps_start: 0.992, Score: 12.0   
-Train: 2, Test: 3, Episode: 572, fc1_units: 80, fc2_units: 88, eps_start: 0.992, Score: 10.0   
-Train: 2, Test: 4, Episode: 572, fc1_units: 80, fc2_units: 88, eps_start: 0.992, Score: 13.0  
-Train: 2, Test: 5, Episode: 572, fc1_units: 80, fc2_units: 88, eps_start: 0.992, Score: 13.0  
+Train: 2, Test: 0, Episode: 589, fc1_units: 112, fc2_units: 104, eps_start: 0.991, Score: 12.0
+Train: 2, Test: 1, Episode: 589, fc1_units: 112, fc2_units: 104, eps_start: 0.991, Score: 17.0
+Train: 2, Test: 2, Episode: 589, fc1_units: 112, fc2_units: 104, eps_start: 0.991, Score: 13.0
+Train: 2, Test: 3, Episode: 589, fc1_units: 112, fc2_units: 104, eps_start: 0.991, Score: 8.0
+Train: 2, Test: 4, Episode: 589, fc1_units: 112, fc2_units: 104, eps_start: 0.991, Score: 15.0
+Train: 2, Test: 5, Episode: 589, fc1_units: 112, fc2_units: 104, eps_start: 0.991, Score: 17.0
 
-    Average Score:  12.83  
+       Average Score:  13.666666666666666
+=========================================================
+
+    Average Score:  13.67  
     
 =========================================================   
-Train: 3, Test: 0, Episode: 590, fc1_units: 64, fc2_units: 56, eps_start: 0.994, Score: 13.0   
-Train: 3, Test: 1, Episode: 590, fc1_units: 64, fc2_units: 56, eps_start: 0.994, Score: 20.0   
-Train: 3, Test: 2, Episode: 590, fc1_units: 64, fc2_units: 56, eps_start: 0.994, Score: 19.0   
-Train: 3, Test: 3, Episode: 590, fc1_units: 64, fc2_units: 56, eps_start: 0.994, Score: 16.0  
-Train: 3, Test: 4, Episode: 590, fc1_units: 64, fc2_units: 56, eps_start: 0.994, Score: 18.0  
-Train: 3, Test: 5, Episode: 590, fc1_units: 64, fc2_units: 56, eps_start: 0.994, Score: 14.0 
-
-   Average Score:  16.67 ( **the best result**)
-   
-=========================================================  
-Train: 4, Test: 0, Episode: 633, fc1_units: 80, fc2_units: 88, eps_start: 0.989, Score: 16.0  
-Train: 4, Test: 1, Episode: 633, fc1_units: 80, fc2_units: 88, eps_start: 0.989, Score: 15.0   
-Train: 4, Test: 2, Episode: 633, fc1_units: 80, fc2_units: 88, eps_start: 0.989, Score: 16.0   
-Train: 4, Test: 3, Episode: 633, fc1_units: 80, fc2_units: 88, eps_start: 0.989, Score: 14.0   
-Train: 4, Test: 4, Episode: 633, fc1_units: 80, fc2_units: 88, eps_start: 0.989, Score: 16.0   
-Train: 4, Test: 5, Episode: 633, fc1_units: 80, fc2_units: 88, eps_start: 0.989, Score: 12.0   
-
-   Average Score:  14.83
-
 ### Credit
 
 Most of the code is based on Udacity's DQN code.
+
 
         
